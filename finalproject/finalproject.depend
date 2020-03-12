@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1576253599 source:e:\iti intake 40\datastructure\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueLinked.h"
+
+1576246989 e:\iti intake 40\datastructure\finalproject\queuelinked.c
+	<windows.h>
+
+1576246900 source:e:\iti intake 40\datastructure\finalproject\queuelinked.c
+	<stdio.h>
+	<stdlib.h>
+
+1574342027 source:e:\iti intake 40\datastructure\queue_using_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576253538 e:\iti intake 40\datastructure\finalproject\queuelinked.h
+	<stdio.h>
+
